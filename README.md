@@ -29,7 +29,7 @@ Git, GitHub, VS Code, MongoDB, Netlify, Vercel, Figma
 ## 📫 Get in Touch
 
 * 🌐 Portfolio: *Coming soon*
-* 💼 LinkedIn: linkedin.com/in/khalid-raza-khan-50648513b
+* 💼 LinkedIn: Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=khalid-raza-khan-50648513b
 * 📧 Email: khalidrazakhan005@gmail.com
 
 ---
